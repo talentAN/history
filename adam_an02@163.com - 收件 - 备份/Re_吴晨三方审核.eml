@@ -1,0 +1,68 @@
+Received: from m1561.mail.126.com (unknown [220.181.15.61])
+	by mx78 (Coremail) with SMTP id MN1pCgDHw8Hj7adiVROpAA--.4334S2;
+	Tue, 14 Jun 2022 10:09:42 +0800 (CST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=126.com;
+	s=s110527; h=Date:From:Subject:MIME-Version:Message-ID; bh=TNbmt
+	0vZJGhF8VDLEwG7DfW+B0xiRgHoeAJ4P2BwZek=; b=oyCHHOg/VRWBTSBzotdQY
+	8iu0hrTD2XMg9lonyLvf6qrNVHTXBLUWsii0pWTTsvFw+JIOEjSioEaYIsJJnEd5
+	WR+vZg3DfV2OrA1178qXTrvG2IOrsdbf5vuusELZ3CVDxdcDHaq6VbDVyJS2iE1q
+	4khUD5mbjZXEUZFs/PPGEU=
+Received: from ccruc$126.com ( [218.106.182.29] ) by ajax-webmail-wmsvr61
+ (Coremail) ; Tue, 14 Jun 2022 10:08:45 +0800 (CST)
+X-Originating-IP: [218.106.182.29]
+Date: Tue, 14 Jun 2022 10:08:45 +0800 (CST)
+From: =?GBK?B?0KPRp8n6vs3StbS00rXWuLW81tDQxA==?= <ccruc@126.com>
+To: =?GBK?B?sLLV8Q==?= <adam_an02@163.com>
+Subject: =?GBK?B?UmU6zuKzv8j9t73J87rL?=
+X-Priority: 3
+X-Mailer: Coremail Webmail Server Version XT5.0.13 build 20220113(9671e152)
+ Copyright (c) 2002-2022 www.mailtech.cn 126com
+In-Reply-To: <6a9d7f8.14fb.1815ff70da1.Coremail.adam_an02@163.com>
+References: <6a9d7f8.14fb.1815ff70da1.Coremail.adam_an02@163.com>
+X-CM-CTRLDATA: I+IfsWZvb3Rlcl9odG09OTc2OjU2
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_21644_676049740.1655172525898"
+MIME-Version: 1.0
+Message-ID: <5b01f7ce.1722.1815ff86f4a.Coremail.ccruc@126.com>
+X-Coremail-Locale: zh_CN
+X-CM-TRANSID:PcqowACXNy6u7adiiZUxAA--.29984W
+X-CM-SenderInfo: 5ffu3ua6rslhhfrp/1tbifhQgKFpEHCIqLQACsH
+Authentication-Results: mx78; spf=pass smtp.mail=ccruc@126.com; dkim=p
+	ass header.i=@126.com
+X-Coremail-Antispam: 1Uf129KBjDUn29KB7ZKAUJUUUUU529EdanIXcx71UUUUU7v73
+	VFW2AGmfu7jjvjm3AaLaJ3UbIYCTnIWIevJa73UjIFyTuYvj4RlhFxUUUUU
+
+------=_Part_21644_676049740.1655172525898
+Content-Type: text/plain; charset=GBK
+Content-Transfer-Encoding: base64
+
+zazRp8TjusOjrMj9t73QrdLpyfO6y9Gn0KPV4rHftcTB97PMtaXS0b6tzai5/aGjCgoKCgoKCgoK
+CgoKCgoKCgoKCgrU2iAyMDIyLTA2LTE0IDEwOjA3OjE1o6wisLLV8SIgPGFkYW1fYW4wMkAxNjMu
+Y29tPiDQtLXAo7oKCsDPyqbE+rrDo6wKCgrI/be90tG+rczhvbvRp9CjyfO6y6GjCgoK0vLOqtfF
+vLHM7rrDyP23vaOsusO8zND4zO7FyceytcSx7aOsz6PN+9Gn0KOw78Omv+y148nzusuhowoKCsLp
+t7PAz8qmwcs=
+------=_Part_21644_676049740.1655172525898
+Content-Type: text/html; charset=GBK
+Content-Transfer-Encoding: base64
+
+PGRpdiBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE0cHg7
+Zm9udC1mYW1pbHk6QXJpYWwiPs2s0afE47rDo6zI/be90K3S6cnzusvRp9Cj1eKx37XEwfezzLWl
+0tG+rc2ouf2hozxwIHN0eWxlPSJtYXJnaW46IDA7Ij48YnI+PC9wPjxwIHN0eWxlPSJtYXJnaW46
+IDA7Ij48YnI+PC9wPjxwIHN0eWxlPSJtYXJnaW46IDA7Ij48YnI+PC9wPjxwIHN0eWxlPSJtYXJn
+aW46IDA7Ij48YnI+PC9wPjxwIHN0eWxlPSJtYXJnaW46IDA7Ij48YnI+PC9wPjxkaXYgc3R5bGU9
+InBvc2l0aW9uOnJlbGF0aXZlO3pvb206MSI+PC9kaXY+PGRpdiBpZD0iZGl2TmV0ZWFzZU1haWxD
+YXJkIj48L2Rpdj48cCBzdHlsZT0ibWFyZ2luOiAwOyI+PGJyPjwvcD48cD7U2iAyMDIyLTA2LTE0
+IDEwOjA3OjE1o6wisLLV8SIgJmx0O2FkYW1fYW4wMkAxNjMuY29tJmd0OyDQtLXAo7o8L3A+PGJs
+b2NrcXVvdGUgaWQ9ImlzUmVwbHlDb250ZW50IiBzdHlsZT0iUEFERElORy1MRUZUOiAxZXg7IE1B
+UkdJTjogMHB4IDBweCAwcHggMC44ZXg7IEJPUkRFUi1MRUZUOiAjY2NjIDFweCBzb2xpZCI+PGRp
+diBzdHlsZT0ibGluZS1oZWlnaHQ6MS43O2NvbG9yOiMwMDAwMDA7Zm9udC1zaXplOjE0cHg7Zm9u
+dC1mYW1pbHk6QXJpYWwiPjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+wM/KpsT6usOjrDwvZGl2Pjxk
+aXYgc3R5bGU9Im1hcmdpbjowOyI+PGJyPjwvZGl2PjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+yP23
+vdLRvq3M4b270afQo8nzusuhozwvZGl2PjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+PGJyPjwvZGl2
+PjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+0vLOqtfFvLHM7rrDyP23vaOsusO8zND4zO7FyceytcSx
+7aOsz6PN+9Gn0KOw78Omv+y148nzusuhozwvZGl2PjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+PGJy
+PjwvZGl2PjxkaXYgc3R5bGU9Im1hcmdpbjowOyI+wum3s8DPyqbByzwvZGl2PjxkaXYgc3R5bGU9
+InBvc2l0aW9uOnJlbGF0aXZlO3pvb206MSI+PGRpdiBzdHlsZT0iY2xlYXI6Ym90aCI+PC9kaXY+
+PC9kaXY+PC9kaXY+PC9ibG9ja3F1b3RlPjwvZGl2Pjxicj48YnI+PHNwYW4gdGl0bGU9Im5ldGVh
+c2Vmb290ZXIiPjxwPiZuYnNwOzwvcD48L3NwYW4+
+------=_Part_21644_676049740.1655172525898--
